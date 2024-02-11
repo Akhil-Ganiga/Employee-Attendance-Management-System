@@ -1,0 +1,119 @@
+.jumbo {
+	
+	padding: 5%;
+	background-image: url("officework.jpg");
+     background-repeat:no-repeat;
+	 background-position:center; 
+	 background-size:cover; 
+	 padding:10px;
+	height: 580px;
+}
+
+.jumbo_user {
+	
+	color: white;
+	background-image: url("officework.jpg");
+	 background-position:center; 
+   background-size:cover; 
+	 padding:10px;
+	height: 620px;
+}
+.jumbo_login {
+	
+	padding: 5%;
+	background-image: url("officework.jpg");
+     background-repeat:no-repeat;
+	 background-position:center; 
+	 background-size:cover; 
+	 padding:10px;
+	height: 600px;
+}
+.MT-10{
+margin-top: -10%;
+}
+
+.color_white {
+	background-color: white;
+}
+.col-sm-6-mod {
+    width: 40%;
+    margin: 0% 3% 0% 3%;
+	box-shadow: 5px 10px #888888;
+	border-radius: 2rem;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #a9b30f;
+    border-color: #a9b30f;
+	   
+}
+
+.btn-lg {
+    padding: 10px 30px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 2rem;
+	margin: 1rem;
+
+}
+.a_color {
+	color: #fff;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+
+.container{
+    width: 94%;
+    margin: auto;
+}
+
+
+.view_user {
+	height: 400px;
+}
+
+.user_form_color{
+	background-color: #97d87a;
+	padding: 3%;
+	text-align: center;
+}
+
+.wrapper {    
+	margin-top: 80px;
+	margin-bottom: 20px;
+}
+
+.form-signin{
+  max-width: 420px;
+  padding: 30px 38px 66px;
+  margin: 0 auto;
+  background-color: #eee;
+  border: 3px dotted rgba(0,0,0,0.1);  
+  }
+
+.form-signin-heading {
+  text-align:center;
+  margin-bottom: 30px;
+}
+
+.form-control1 {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+}
+
+.inputlogintext[type="text"] {
+  margin-bottom: 0px;
+  border-bottom-left-radius: 8;
+  border-bottom-right-radius: 8;
+}
+
+.inputloginpass[type="password"] {
+  margin-bottom: 20px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
